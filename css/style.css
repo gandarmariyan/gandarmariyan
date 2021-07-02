@@ -10,3 +10,15 @@
 section {
   padding-top: 5rem;
 }
+
+#contact {
+  background-color: #e2edff;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
